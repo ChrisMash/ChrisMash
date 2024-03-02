@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm primarily an iOS developer, which has been my focus since 2012.
+I'm an iOS developer, which has been my focus since 2012.
 
 * Check out my apps on the [AppStore](https://apps.apple.com/gb/developer/chris-mash/id570568194)
 * Follow me on [Twitter](https://twitter.com/cjmash), though I don't tweet much!
